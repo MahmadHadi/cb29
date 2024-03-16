@@ -1,0 +1,7 @@
+16 march 24
+
+    using both -> if and if else 
+    check shape -> square or rectangle
+
+    length of pwd -> length <= 3 --< weak pwd
+                  -> length > 3  --< strong pwd
