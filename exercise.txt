@@ -5,3 +5,7 @@
 
     length of pwd -> length <= 3 --< weak pwd
                   -> length > 3  --< strong pwd
+
+17 march 24
+    calc using else if 
+    check vowel 
