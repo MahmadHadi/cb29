@@ -9,3 +9,9 @@
 17 march 24
     calc using else if 
     check vowel 
+
+18 march 24
+    eligible for scholarship -> grade -> print pr and scholarship {%}
+    eligible for job -> indian and exp -> 3 year 
+    do all quetions using nested if 
+
