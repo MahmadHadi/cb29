@@ -15,3 +15,6 @@
     eligible for job -> indian and exp -> 3 year 
     do all quetions using nested if 
 
+19 march 24
+    findout smallest of three numbers using nested if & ternary operator
+    print days in month -> switch case and nested if 
