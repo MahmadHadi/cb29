@@ -15,6 +15,14 @@
     eligible for job -> indian and exp -> 3 year 
     do all quetions using nested if 
 
-19 march 24
+20 march 24
     findout smallest of three numbers using nested if & ternary operator
     print days in month -> switch case and nested if 
+
+21 march 24
+    using all three loops 
+    -> print hello for n { input } times -> using while loop and for loop 
+    -> print 1 to n { input }
+    -> print n to 1 
+
+    

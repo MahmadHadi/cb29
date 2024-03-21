@@ -14,7 +14,7 @@ void main() {
     printf("\n----------------------\n");
 
     int max = (num1 > num2) ? num1 : num2;
-    // max = num2;
+    // max = num2; // if num2 is greater than num1
     printf("%d ", max);
 
     printf("\n----------------------\n");
