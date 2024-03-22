@@ -25,4 +25,9 @@
     -> print 1 to n { input }
     -> print n to 1 
 
-    
+22 march 24
+    all odd numbers between 1 to n 
+    print sum of 1 to 10
+    print sum of 1 to n 
+    print product of 1 to n 
+
