@@ -58,3 +58,22 @@
     same for odd numbers
 
     print rectangle using nested loop
+
+28 march 24
+    a b c 
+    a b c 
+    a b c 
+
+    a 2 c 
+    d 5 f 
+    g 8 i
+
+    1 2 3
+    d e f 
+    7 8 9
+    
+    0 1 0  
+    1 0 1
+    0 1 0
+
+    print all in trianlge and square both
