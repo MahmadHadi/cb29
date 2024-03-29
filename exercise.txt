@@ -77,3 +77,7 @@
     0 1 0
 
     print all in trianlge and square both
+
+
+29 march 24
+    print all square patterns in trianlge form
