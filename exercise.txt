@@ -81,3 +81,6 @@
 
 29 march 24
     print all square patterns in trianlge form
+
+30 march 24
+    create functions for all patterns

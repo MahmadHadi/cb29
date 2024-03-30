@@ -17,5 +17,5 @@ void main() {
     }   
     printf("\n");
 
-    printf("%d ", i);
+    printf("%d ", i); 
 }
