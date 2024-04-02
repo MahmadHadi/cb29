@@ -1,4 +1,4 @@
-// write a function that take a symbol from user print that symbol 
+// * write a function that take a symbol from user print that symbol 
 // take number from user and print symbol for times of number
 
 #include <stdio.h>
